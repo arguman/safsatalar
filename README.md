@@ -1,0 +1,4 @@
+safsatalar
+==========
+
+Safsatalar ve açıklamaları
