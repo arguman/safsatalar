@@ -18,8 +18,8 @@ Ad Ignorantiam safsatasi, dogrulanmasi guc olan fikirleri sadece aksi deliller o
 
 ####Ornek:
 ```
-  - Insan beyninin bircok kismi bilim tarafindan henuz anlasilamamistir. Beynimiz kesinlikle 
-    su an kullandigimizdan cok daha yuksek kapasitelidir. 
+  - Insan beyninin bircok kismi bilim tarafindan henuz anlasilamamistir. 
+    Beynimiz kesinlikle su an kullandigimizdan cok daha yuksek kapasitelidir. 
 ```
 ```
   - Evrim teorisinin aciklayamadigi bazi turler vardir, o halde bir akilli tasarim oldugu gercektir.
